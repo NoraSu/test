@@ -1,0 +1,3 @@
+github desktop
+beyond compare
+modbus 
