@@ -1,1 +1,1 @@
-count << "hello world" << endl;
+std::count << "hello world" << std::endl;
